@@ -11,11 +11,15 @@ troubleShootScreen()
 Prints simple text on screen to test if it is working.
 ______________________________________________________________
 
-Libraries iincluded:
+Libraries included:
 
 lcdgfx.h
+
 lcdgfx_gui.h
+
 bounce2.h
+
 ESP8266WiFi.h
+
 WiFi.h
 
