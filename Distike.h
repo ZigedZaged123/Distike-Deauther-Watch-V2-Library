@@ -27,6 +27,6 @@ class DISTIKE {
         void startUp();
         void troubleShootScreen();
 
-}
+};
 
 #endif
