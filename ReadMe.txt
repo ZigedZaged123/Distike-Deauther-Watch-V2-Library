@@ -16,4 +16,6 @@ Libraries iincluded:
 lcdgfx.h
 lcdgfx_gui.h
 bounce2.h
+ESP8266WiFi.h
+WiFi.h
 
