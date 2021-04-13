@@ -24,7 +24,8 @@ class DISTIKE {
 
     public:
         DISTIKE();
-        void startUp();
+        void startUpScreen();
+        void begin();
         void troubleShootScreen();
 
 };
