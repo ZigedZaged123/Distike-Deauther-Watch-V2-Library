@@ -5,7 +5,7 @@ startUpScreen()
 
 Initialize the screen out of the "void setup(){}"
 
-""
+"DisplaySH1106_128x64_I2C display(-1, {-1, 0x3C, OLED_SCL, OLED_SDA, -1});"
 __________________________________________________________________________________________
 
 troubleShootScreen()
