@@ -1,5 +1,9 @@
 #include "Arduino.h"
 #include "Distike.h"
+#include "lcdgfx.h"
+#include "bounce2.h"
+#include "ESP8266WiFi.h"
+#include "WiFi.h"
 
 
 Distike::Distike(){
