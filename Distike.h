@@ -1,4 +1,4 @@
-#indef Distike_h
+#ifndef Distike_h
 #define Distike_h
 #include "Arduino.h"
 #include "Bounce2.h"
