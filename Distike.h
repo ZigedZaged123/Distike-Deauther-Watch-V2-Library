@@ -8,9 +8,9 @@
 #include "WiFi.h"
 
 
-class DISTIKE {
+class Distike {
 
-    private:
+    public:
 
     #define OLED_SDA 5
     #define OLED_SCL 4
@@ -21,12 +21,11 @@ class DISTIKE {
     #define DISTIKE_LASER 16
     #define SIDE_BUTTON_1 0
     #define SIDE_BUTTON_2 RST
-
-    public:
-        DISTIKE();
-        void startUpScreen();
-        void begin();
-        void troubleShootScreen();
+    
+    Distike();
+    void startUpScreen();
+    void begin();
+    void troubleShootScreen();
 
 };
 
