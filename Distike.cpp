@@ -7,6 +7,8 @@
 
 
 Distike::Distike(){
+ //This has been changed
+}
 
 void Distike::begin() {
   display.begin();
@@ -28,4 +30,4 @@ void Distike::troubleShootScreen() {
 
   display.printFixed(0, 0, "Screen Troubleshoot Test", STYLE_NORMAL);
 }
-}
+
