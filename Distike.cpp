@@ -10,6 +10,11 @@ Distike::Distike(){
 
 void Distike::begin() {
   display.begin();
+  pinMode(BUTTON_UP, INPUT);
+  pinMode(BUTTON_DOWN, INPUT);
+  pinMode(BUTTON_IN, INPUT);
+  pinMode(SIDE_BUTTON_1, INPUT);
+  pinMode(SIDE_BUTTON_2, INPUT);
 }
   
 void Distike::startUpScreen() {
